@@ -51,5 +51,5 @@ with your site's own.
 
 ## License
 
-The libraries in `lib/` keep their own licenses (see each folder). No license
-has been chosen yet for the rest of the code.
+MIT, see [LICENSE](LICENSE). The libraries in `lib/` keep their own licenses
+(see each folder).
